@@ -23,24 +23,24 @@ public class BOJ_13335 {
         st = new StringTokenizer(br.readLine());
         int truck = Integer.parseInt(st.nextToken());
 
-        while(true) {
+        while(true) { 
             time++;
 
             sum-=bridge.poll();
-            if(sum+truck <= L) {
+            if(sum+truck <= L) { 
                 bridge.add(truck);
                 sum+=truck;
-                if(--N == 0) break;
+                if(--N == 0) break; 
 
                 truck = Integer.parseInt(st.nextToken());
 
-            }else {
+            }else { 
                 bridge.add(0);
             }
 
         }
 
-        time += bridge.size();
+        time += bridge.size(); 
         System.out.println(time);
     }
 }
