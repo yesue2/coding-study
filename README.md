@@ -542,5 +542,27 @@ git commit -m "[N]주차-[이름]-[문제번호]"
         <td>LTC</td><td>51</td><td><a href="https://leetcode.com/problems/n-queens/description/">n-queens</a></td><td>Hard</td>
         <td>응용 문제✔</td>
     </tr>
+<!-- 12주차 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="5">12주차<br>다익스트라</td>
+        <td>BOJ</td><td>1238</td><td><a href="https://www.acmicpc.net/problem/1238">파티</a></td><td>골드3</td>
+        <td>기본 문제✔</td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1504</td><td><a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a></td><td>골드4</td>
+        <td>기본 문제✔</td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1261</td><td><a href="https://www.acmicpc.net/problem/1261">알고스팟</a></td><td>골드4</td>
+        <td>응용 문제✔</td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>17835</td><td><a href="https://www.acmicpc.net/problem/17835">면접보는 승범이네</a></td><td>골드2</td>
+        <td>응용 문제✔</td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>20183</td><td><a href="https://www.acmicpc.net/problem/20183">골목 대장 호석 - 효율성 2</a></td><td>골드2</td>
+        <td>응용 문제✔</td>
+    </tr>
 </table>
 
