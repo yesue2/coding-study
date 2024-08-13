@@ -544,12 +544,16 @@ git commit -m "[N]주차-[이름]-[문제번호]"
     </tr>
 <!-- 12주차 문제 -->
     <tr style="text-align: center">
-        <td rowspan="5">12주차<br>다익스트라</td>
+        <td rowspan="6">12주차<br>다익스트라</td>
         <td>BOJ</td><td>1238</td><td><a href="https://www.acmicpc.net/problem/1238">파티</a></td><td>골드3</td>
         <td>기본 문제✔</td>
     </tr>
     <tr style="text-align: center">
         <td>BOJ</td><td>1504</td><td><a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a></td><td>골드4</td>
+        <td>기본 문제✔</td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1916</td><td><a href="https://www.acmicpc.net/problem/1916">최소비용 구하기</a></td><td>골드5</td>
         <td>기본 문제✔</td>
     </tr>
     <tr style="text-align: center">
