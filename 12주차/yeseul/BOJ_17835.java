@@ -44,7 +44,7 @@ public class BOJ_17835 {
     }
 
     static long[] dijkstra(int start) {
-        PriorityQueue<long[]> PQ = new PriorityQueue<>((o1, o2) -> Long.compare(o1[1], o2[1]));
+        PriorityQueue<long[]> PQ = new PriorityQueue<>(Comparator.comparingLong(o -> o[1]));
         long[] time = init();
         PQ.add(new long[]{start, 0});
         time[start] = 0;
