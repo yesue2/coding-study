@@ -29,8 +29,8 @@ class Solution {
 
     public int solution(int n, int s, int a, int b, int[][] fares) {
         int answer = 60000000;
-
         fee = new int[3][n + 1];
+
         for(int i = 1; i <= n; i++){
             fee[0][i] = 20000000;
             fee[1][i] = 20000000;
